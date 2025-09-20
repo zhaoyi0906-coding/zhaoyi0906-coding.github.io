@@ -16,17 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About me
+# About Me
 I am currently a visiting student at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), where I am fortunate to be supervised by Zhiqiang Shen. At the same time, I am a final-year Master’s student at the University of Chinese Academy of Sciences (UCAS). Prior to this, I received my Bachelor’s degree from the School of Information Science and Engineering, Shandong University.
 
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# News
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NIPS2025. 
  
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/mattack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ Yaxin Luo<sup>*</sup>, Zhaoyi Li<sup>*</sup>, Jiacheng Liu, Jiacheng Cui, Xiaoha
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.04* Merit Student in University of Chinese Academy of Sciences
 - *2022.04* Excellent Graduates of Shandong Province (Top 1%).
 - *2021.12* National Scholarship (Top 1%). 
