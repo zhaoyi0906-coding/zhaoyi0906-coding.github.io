@@ -36,6 +36,7 @@ Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635)
 
 Zhaoyi Li<sup>*</sup>, Xiaohan Zhao<sup>*</sup>, Dongdong Wu, Jiacheng Cui, Zhiqiang Shen$\dagger$
 
+The Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS) 2025
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:d1gkVwhDpl0C'></span></strong>
 [**Github**](https://github.com/VILA-Lab/M-Attack)
 </div>
@@ -47,6 +48,8 @@ Zhaoyi Li<sup>*</sup>, Xiaohan Zhao<sup>*</sup>, Dongdong Wu, Jiacheng Cui, Zhiq
 [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal Agents](https://arxiv.org/pdf/2505.24878)
 
 Yaxin Luo<sup>*</sup>, Zhaoyi Li<sup>*</sup>, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen$\dagger$
+
+The Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track, 2025.
 
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:9yKSN-GCB0IC'></span></strong>
 [**Github**](https://github.com/MetaAgentX/OpenCaptchaWorld)
