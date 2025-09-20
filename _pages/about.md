@@ -31,24 +31,23 @@ I am currently a visiting student at the Mohamed bin Zayed University of Artific
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/mattack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong
+Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+\underline{Zhaoyi Li}, Xiaohan Zhao, Dongdong Wu, Jiacheng Cui, Zhiqiang Shen$\dagger$
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/figure2_captcha_examples_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal Agents](https://arxiv.org/pdf/2505.24878)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yaxin Luo*, \underline{Zhaoyi Li*}, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen$\dagger$
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
 
