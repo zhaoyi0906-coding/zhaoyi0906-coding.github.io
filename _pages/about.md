@@ -55,8 +55,12 @@ I am currently a visiting student at the Mohamed bin Zayed University of Artific
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04* Merit Student in University of Chinese Academy of Sciences
+- *2022.04* Excellent Graduates of Shandong Province (Top 1%).
+- *2021.12* National Scholarship (Top 1%). 
+- *2021/2020.12* The First-class Academic Scholarship (Top 5%).
+- *2021.12* Merit Student in Shandong University.
+- *2021.02* Meritorious Winner in MCM.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
