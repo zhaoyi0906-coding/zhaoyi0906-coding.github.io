@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About me
 I am currently a visiting student at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), where I am fortunate to be supervised by Zhiqiang Shen. At the same time, I am a final-year Master’s student at the University of Chinese Academy of Sciences (UCAS). Prior to this, I received my Bachelor’s degree from the School of Information Science and Engineering, Shandong University.
 
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -34,7 +34,7 @@ I am currently a visiting student at the Mohamed bin Zayed University of Artific
 [A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong
 Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635)
 
-\underline{Zhaoyi Li}, Xiaohan Zhao, Dongdong Wu, Jiacheng Cui, Zhiqiang Shen$\dagger$
+Zhaoyi Li<sup>*</sup>, Xiaohan Zhao<sup>*</sup>, Dongdong Wu, Jiacheng Cui, Zhiqiang Shen$\dagger$
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
@@ -45,7 +45,7 @@ Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635)
 
 [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal Agents](https://arxiv.org/pdf/2505.24878)
 
-Yaxin Luo*, \underline{Zhaoyi Li*}, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen$\dagger$
+Yaxin Luo<sup>*</sup>, Zhaoyi Li<sup>*</sup>, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen$\dagger$
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=J-VsziYAAAAJ&citation_for_view=J-VsziYAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='J-VsziYAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
