@@ -23,12 +23,12 @@ I am currently a visiting student at the Mohamed bin Zayed University of Artific
 
 
 # News
-- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NIPS2025. 
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS2025. 
  
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/mattack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mattack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong
@@ -42,7 +42,7 @@ The Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS) 2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/figure2_captcha_examples_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/figure2_captcha_examples_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal Agents](https://arxiv.org/pdf/2505.24878)
